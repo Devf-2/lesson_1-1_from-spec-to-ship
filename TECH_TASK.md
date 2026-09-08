@@ -12,7 +12,7 @@
 
 **ФИО:** Овсепьян Давид Вартанович
 
-**Ссылка на GitHub Pages:** https://github.com/Devf-2
+**Ссылка на GitHub Pages:** https://devf-2.github.io/lesson_1-1_from-spec-to-ship/
 
 ## Этап 1. Позиционирование и первый экран
 
